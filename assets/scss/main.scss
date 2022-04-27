@@ -31,15 +31,21 @@ body {
   position: relative;
   left: 0;
   padding-left: 0;
-}
-#app.active #menu {
-  left: 200px;
-  width: 200px;
+  &.active {
+    body {
+      max-width: 375px;
+      overflow-x: hidden;
+    }
+    #menu {
+      left: 200px;
+      width: 200px;
+    }
+    .menu-link {
+      left: 200px;
+    }
+  }
 }
 
-#app.active .menu-link {
-  left: 200px;
-}
 /*
   The content `<div>` is where all your content goes.
   */
@@ -232,6 +238,10 @@ body {
   #app.active .menu-link {
     left: 200px;
   }
+}
+
+.pure-button {
+  white-space: normal;
 }
 
 @media (max-width: 48em) {
