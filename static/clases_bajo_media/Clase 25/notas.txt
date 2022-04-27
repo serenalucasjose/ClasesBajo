@@ -1,0 +1,2 @@
+* Componer chord melody (tiempos largos acorde y luego soltar durante la melo)
+* Pregunta respuesta

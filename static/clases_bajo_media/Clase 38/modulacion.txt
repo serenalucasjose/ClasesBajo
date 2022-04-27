@@ -1,0 +1,51 @@
+La Modulacion es un cambio de centro tonal a lo largo de una obra musical.
+Existen 3 formas de analisis:
+
+
+Modulacion Directa:
+
+es aquella que no implica ningún proceso armónico, sino que se basa en la
+mera yuxtaposición de dos fragmentos en distintas tonalidades, de modo que
+la nueva tonalidad es introducida directamente a través de su tónica.
+
+Ej:
+Cmaj7 /    %    /    Dbmaj7     /       %
+
+
+Modulacion Dominante:
+
+Consiste en alcanzar la nueva tonalidad a través de su dominante.
+
+Ej:
+Cmaj7 /  A7 / Dmaj7  /  %
+
+
+Modulacion Pivot: 
+
+Esta modulacion se realiza a partir de un acorde que pertenece a ambas 
+tonalidades.
+
+Ej1:
+Cmaj7  /  Dm7  /   Em7  /   A7
+
+Dmaj7  /   %   /
+
+Ej2:
+Cmaj7  /  Dm7  /   Em7  /  Dm7
+
+Cmaj7  /   %   /
+
+
+Intercambio Modal:
+
+El intercambio modal emplea acordes no diatónicos pero no es una modulación,
+es decir, no consiste en un cambio de tonalidad, sino en tomar acordes prestados
+ de otros modos/escalas que tengan la misma funcion tonal para asi poder intercambiarlos
+
+
+Ej:
+F   /  Fm  /  Cmaj7 /  A7
+Dm7 /  G7   /  Cmaj7 /  %
+
+
+

@@ -1,0 +1,8 @@
+1. Marcar negras
+2. Marcar blancas
+3. De negras a blancas
+4. Cuenta (negras)
+5. Pasar a A7
+
+* Agregar Groove 3 y 4
+
