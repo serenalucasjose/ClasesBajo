@@ -1,0 +1,10 @@
+Obligado:
+- Pulso/Claves 3+2
+- Pulso/Claves 2+3
+Tumbado:
+- Ambas Claves
+Acordes:
+- Ambas Claves
+Paila:
+- Percutir
+- Tumado + Percutir
